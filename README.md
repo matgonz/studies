@@ -10,3 +10,8 @@ Repository for studies and experiments in Data Science, Machine Learning, MLOps,
 ### MLOps
 
 - [MLOps Core](articles/1_mlops_core.md)
+
+### LLMOps
+
+- [LLMOps Core](articles/2_llmops_core.md)
+- [LLMOps Course By DeepLearning.AI](courses/llmops_deeplearningai/)
