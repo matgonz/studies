@@ -40,7 +40,7 @@ When choosing a foundation model for your use case, it's important to consider s
 Choosing the right model is challenging because each one has different architectures, datasets, and licenses, and each use case has unique needs.
 
 ### Develop and experiment
-
+...
 
 ### References
 - [Deploy and operate generative AI applications by Google](https://cloud.google.com/architecture/deploy-operate-generative-ai-applications)
