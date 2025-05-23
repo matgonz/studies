@@ -14,4 +14,5 @@ Repository for studies and experiments in Data Science, Machine Learning, MLOps,
 ### LLMOps
 
 - [LLMOps Core](articles/2_llmops_core.md)
+- [Challenges and Applications of LLMs](articles/challenges-and-applications-of-llms.md)
 - [LLMOps Course By DeepLearning.AI](courses/llmops_deeplearningai/)
