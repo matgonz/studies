@@ -26,3 +26,11 @@ A masked language model is trained to predict missing tokens anywhere in a seque
 This type of model are commonly used for non-generative tasks such as sentiment analysis, text classification, and also code debugging.
 
 ### Autoregressive language model
+
+An autoregressive language model is trained to predict the next token in a sequence, using only the preceding tokens. It can continually generate one token after another. Today, autoregressive language models are the models of choice the text generation, and for this reason, they are much more popular than masked language models.
+
+![Autoregressive LM vs Masked LM](img/auregressive-vs-masked-language-models.png)
+
+The outputs of language models are open-ended. ***A model that can generate open-ended outputs is called generative***, hence the term generative AI.
+
+You can think of a  language model as a **completion machine**: given a text (prompt), it tries to complete that text. Completions are predictions, based on probabilities, and not guaranteed to be correct.
